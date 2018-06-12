@@ -30,8 +30,3 @@ export PS1="${GREEN}[\w]${RESET} "
 
 alias ll='ls -lG'
 
-#python settings
-source ~/Dev/.venv/bin/activate
-
-#platform specific settings
-source ~/.bashrc
