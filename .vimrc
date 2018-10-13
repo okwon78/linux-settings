@@ -91,8 +91,6 @@ Plug 'scrooloose/syntastic'
 Plug 'lilydjwg/colorizer'
 " Ack code search (requires ack installed in the system)
 Plug 'mileszs/ack.vim'
-" Cmake plugin
-Plug 'vhdirk/vim-cmake'
 
 if has('python')
     " YAPF formatter for Python
