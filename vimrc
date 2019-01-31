@@ -91,6 +91,10 @@ Plug 'scrooloose/syntastic'
 Plug 'lilydjwg/colorizer'
 " Ack code search (requires ack installed in the system)
 Plug 'mileszs/ack.vim'
+" Better JSON for VIM"
+Plug 'elzr/vim-json'
+" Vim syntax file & snippets for Docker's Dockerfile"
+Plug 'ekalinin/Dockerfile.vim'
 
 if has('python')
     " YAPF formatter for Python
