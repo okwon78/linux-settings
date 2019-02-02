@@ -264,6 +264,7 @@ nmap ,t :NERDTreeFind<CR>
 " don;t show these file types
 let NERDTreeIgnore = ['\.pyc$', '\.pyo$']
 
+let g:NERDTreeNodeDelimiter = "\u00a0"
 
 " Tasklist ------------------------------
 
